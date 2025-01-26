@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: Demo
+  vmImage: 'Demo'
 
 variables:
   buildConfiguration: 'Release'

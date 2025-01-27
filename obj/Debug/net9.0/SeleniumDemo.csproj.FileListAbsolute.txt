@@ -163,3 +163,4 @@
 /Users/vedhashniv/Documents/SeleniumDemo/obj/Debug/net9.0/SeleniumDemo.pdb
 /Users/vedhashniv/Documents/SeleniumDemo/obj/Debug/net9.0/SeleniumDemo.genruntimeconfig.cache
 /Users/vedhashniv/Documents/SeleniumDemo/obj/Debug/net9.0/ref/SeleniumDemo.dll
+/Users/vedhashniv/Documents/SeleniumDemo/obj/Debug/net9.0/SeleniumDemo.sourcelink.json
